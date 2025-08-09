@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Mubarak Shaik 👋
 
-[cite_start]I'm a passionate and certified Full-Stack Developer from India with expertise in the MERN stack[cite: 7]. [cite_start]I specialize in transforming concepts into high-quality, responsive, and user-friendly web applications[cite: 7, 8]. [cite_start]I am always eager to learn new technologies and contribute to collaborative, fast-paced teams[cite: 8].
+I'm a passionate and certified Full-Stack Developer from India with expertise in the MERN stack. I specialize in transforming concepts into high-quality, responsive, and user-friendly web applications.I am always eager to learn new technologies and contribute to collaborative, fast-paced teams.
 
 ---
 
@@ -99,9 +99,10 @@ Here are some of the projects I'm proud of.
 
 | Project                                                      | Description                                                                                                                              | Live Demo & Code                                                                                                                                                               |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [cite_start]**Nxt Watch (YouTube Clone)** [cite: 42]                                | [cite_start]A fully responsive YouTube clone with authentication, trending/gaming sections, video details, and like/dislike/save functionality[cite: 43, 44]. | [cite_start][**Live Demo**](https://mubanxtwatch.ccbp.tech/login) [cite: 49] [cite_start]<br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/nxtwatch) [cite: 48]                                                                 |
-| [cite_start]**Healthcare Appointment App** [cite: 36]                          | [cite_start]A full-stack application for doctor search, profile view, and appointment booking with form validation and dark/light mode support[cite: 37, 38]. | [cite_start][**Live Demo**](https://healthcare-appointments-booking.vercel.app/) [cite: 41] [cite_start]<br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/healthcare-appointments-booking.git) [cite: 40] |
-| [cite_start]**Portfolio Website** [cite: 30]                                       | [cite_start]A modern, mobile-friendly personal portfolio to showcase my skills, certifications, and projects, built with React and Styled Components[cite: 30, 31, 33]. | [cite_start][**Live Demo**](https://portfolio-project-roan-nu.vercel.app/) [cite: 35] [cite_start]<br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/portfolio-project.git) [cite: 34]                                         |
+| **Nxt Watch (YouTube Clone)**                               | A fully responsive YouTube clone with authentication, trending/gaming sections, video details, and like/dislike/save functionality. | [**Live Demo**](https://mubanxtwatch.ccbp.tech/login)<br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/nxtwatch)                                                                  |
+| **Healthcare Appointment App**                          | A full-stack application for doctor search, profile view, and appointment booking with form validation and dark/light mode support. | [**Live Demo**](https://healthcare-appointments-booking.vercel.app/)  <br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/healthcare-appointments-booking.git)  |
+| 
+**Portfolio Website**                                     | [cite_start]A modern, mobile-friendly personal portfolio to showcase my skills, certifications, and projects, built with React and Styled Components[cite: 30, 31, 33]. | [cite_start][**Live Demo**](https://portfolio-project-roan-nu.vercel.app/) [cite: 35] [cite_start]<br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/portfolio-project.git) [cite: 34]                                         |
 
 ---
 
