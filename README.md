@@ -102,7 +102,7 @@ Here are some of the projects I'm proud of.
 | **Nxt Watch (YouTube Clone)**                               | A fully responsive YouTube clone with authentication, trending/gaming sections, video details, and like/dislike/save functionality. | [**Live Demo**](https://mubanxtwatch.ccbp.tech/login)<br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/nxtwatch)                                                                  |
 | **Healthcare Appointment App**                          | A full-stack application for doctor search, profile view, and appointment booking with form validation and dark/light mode support. | [**Live Demo**](https://healthcare-appointments-booking.vercel.app/)  <br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/healthcare-appointments-booking.git)  |
 | 
-**Portfolio Website**                                     | [cite_start]A modern, mobile-friendly personal portfolio to showcase my skills, certifications, and projects, built with React and Styled Components[cite: 30, 31, 33]. | [cite_start][**Live Demo**](https://portfolio-project-roan-nu.vercel.app/) [cite: 35] [cite_start]<br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/portfolio-project.git) [cite: 34]                                         |
+**Portfolio Website**                                     | A modern, mobile-friendly personal portfolio to showcase my skills, certifications, and projects, built with React and Styled Components. | [**Live Demo**](https://portfolio-project-roan-nu.vercel.app/) <br/> [**GitHub Repo**](https://github.com/MubarakShaik-dev/portfolio-project.git)                                         |
 
 ---
 
