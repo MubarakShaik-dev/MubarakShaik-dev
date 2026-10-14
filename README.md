@@ -80,8 +80,6 @@ I'm passionate about data ingestion, ETL/ELT pipelines, incremental data loading
 - Rank matching listings and export results to CSV files.
 - Organize shortlisted opportunities for further review.
 
-> Note: Update each project with its actual implementation, source code, screenshots, and results before presenting it as a completed project.
-
 ---
 
 ## 📚 Currently Strengthening My Knowledge
