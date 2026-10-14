@@ -1,3 +1,14 @@
+## 🌐 My Data Engineering Portfolio
+
+Explore my portfolio to learn about my technical skills, data engineering projects, and experience with Azure data platforms.
+
+🚀 **[View My Live Portfolio](https://mubarakshaik-dev.github.io/my_Portfolio_project/)**
+
+**Technologies:** Azure Data Factory | Azure Databricks | PySpark | Python | SQL | ADLS Gen2 | Delta Lake
+
+
+
+
 # Hi there, I'm Mubarak Shaik 👋
 
 ### Azure Data Engineer | Azure Data Factory | Databricks | PySpark | SQL | Python
