@@ -1,10 +1,4 @@
-## 🌐 My Data Engineering Portfolio
 
-Explore my portfolio to learn about my technical skills, data engineering projects, and experience with Azure data platforms.
-
-🚀 **[View My Live Portfolio](https://mubarakshaik-dev.github.io/my_Portfolio_project/)**
-
-**Technologies:** Azure Data Factory | Azure Databricks | PySpark | Python | SQL | ADLS Gen2 | Delta Lake
 
 
 
@@ -16,6 +10,16 @@ Explore my portfolio to learn about my technical skills, data engineering projec
 I'm a Data Engineer focused on building reliable data pipelines, cloud-based data platforms, and analytics-ready datasets. I work with Microsoft Azure technologies, including Azure Data Factory, Azure Databricks, Azure Data Lake Storage Gen2, PySpark, Python, and SQL.
 
 I'm passionate about data ingestion, ETL/ELT pipelines, incremental data loading, data transformation, and lakehouse architecture. I continuously strengthen my technical skills by building hands-on projects and learning modern data engineering practices.
+
+
+
+## 🌐 My Data Engineering Portfolio
+
+Explore my portfolio to learn about my technical skills, data engineering projects, and experience with Azure data platforms.
+
+🚀 **[View My Live Portfolio](https://mubarakshaik-dev.github.io/my_Portfolio_project/)**
+
+**Technologies:** Azure Data Factory | Azure Databricks | PySpark | Python | SQL | ADLS Gen2 | Delta Lake
 
 ---
 
